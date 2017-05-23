@@ -1,0 +1,32 @@
+body {
+	font-family:  serif;
+}
+.navbar-fixed-top{
+	color: #ffffff;
+}
+.jumbotron{
+	color: #ffffff;
+}
+.jumbotron a {
+	color: #ffffff;
+
+}
+.whiteText{
+	color: #ffffff;
+}
+#article {
+	font-size: 14px;
+
+}
+#pic{
+	height: 500px;
+	width: 700px;
+}
+#last a {
+	text-decoration: underline;
+}
+.footer li{
+	list-style: none;
+	display: inline-block;
+
+}
